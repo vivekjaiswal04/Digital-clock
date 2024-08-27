@@ -1,0 +1,5 @@
+digital-clock/
+├── clock.py
+├── README.md
+├── LICENSE
+└── .gitignore
